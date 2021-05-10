@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "http-server": "^0.12.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "treeify": "^1.1.0"
   }
 }
